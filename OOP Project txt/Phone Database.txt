@@ -1,0 +1,17 @@
+16
+9 Smartphone Samsung Galaxy,Flip,Z 250000 8 256 Android 6.7 12 3300 
+4 Smartphone Samsung Galaxy,S20,Ultra 200000 12 128 Android 6.9 108 5000 
+1 Smartphone Samsung Galaxy,Note10,Lite 87000 8 128 Android 6.7 12 4500 
+2 Smartphone Apple iPhone,11 200000 4 256 iOS 6.1 12 3110 
+2 Smartphone Apple iPhone,11,Pro 230000 4 512 iOS 5.8 12 3046 
+22 Cellphone Apple qwert 20000 3 32 iOS 6.5 30 3000 
+23 Smartphone Apple iPhone,XS 100000 4 512 iOS 5.8 12 2658 
+22 Flip Iphone New,Phone 1000 22 22 Android 2.9 30 3300 
+10 Smartphone Google Pixel,3 160000 4 128 Android 5.5 12 2915 
+9 Smartphone Google Pixel,2 70000 4 128 Android 5 8 2700 
+13 Smartphone Huawei P40,lite 180000 6 128 Android 6.5 64 4000 
+3 Smartphone Huawei P40,Pro 200000 8 256 Android 6.58 50 4200 
+10 Smartphone BlackBerry Leap 30000 2 16 BlackBerry 5 8 2800 
+2 Cellphone BlackBerry Classic 7000 2 16 BlackBerry 3.5 8 2515 
+6 Cellphone BlackBerry Curve,9350 7500 1 1 BlackBerry 2.44 5 1000 
+1 Cellphone BlackBerry Bold,Touch,9900 4000 1 8 BlackBerry 2.8 5 1230 
