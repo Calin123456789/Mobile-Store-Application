@@ -3,6 +3,7 @@
 Welcome to the C++ Command Line Mobile Store Application! This project aims to provide a seamless experience for managing and exploring mobile phones. Here's what you can do with this application:
 
 **Explore the Mobile Database**: Our application is fueled by a comprehensive Mobile Database text file that houses a wide range of mobile phone data, along with the total count of available phones.
+![image](https://github.com/Muhammad-Wajahat/Mobile-database-OOP-Project/assets/55240166/1164b946-c989-4d63-9efd-c5c7692bbdee)
 
 **Effortless Searching**: Looking for a specific mobile phone? No problem! Utilize our advanced search functionality to filter phones based on various specifications such as RAM, storage, processor, and more.
 
