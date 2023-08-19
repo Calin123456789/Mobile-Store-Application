@@ -1,4 +1,4 @@
-# Mobile-database-ProjectC++ Command Line Mobile Store Application:
+# C++ Command Line Mobile Store Application:
 
 Welcome to the C++ Command Line Mobile Store Application! This project aims to provide a seamless experience for managing and exploring mobile phones. Here's what you can do with this application:
 
